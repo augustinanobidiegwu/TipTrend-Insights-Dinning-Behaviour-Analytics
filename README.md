@@ -1,5 +1,5 @@
 # TipTrend-Insights-Dinning-Behaviour-Analytics
-This project uses a dataset that captures different aspects of dining experiences to identify patterns and behaviours related to tipping. Information like the total bill, tip amount, gender, preferred smoking day, time of day, and party size are all included in the dataset and used for this analysis
+This project uses a dataset that captures different aspects of dining experiences to identify patterns and behaviours related to tipping. Information like the total bill, tip amount, gender, preferred smoking day, time of day, and party size are all included in the dataset and used for this analysis. Moreover, the dataset provides insights into tipping tendencies concerning dinning preferences such as smoking and specific days or times. Further exploration and statistical analysis are underway to uncover deeper trends, potentially shedding light on factors influencing tipping behaviour in restaurant settings
 
 ## Skills and tools
 •	Variable Identification   
@@ -21,5 +21,5 @@ My experience includes using Python and R for statistical analysis, thorough dat
 I am proficient in Python and R, intermediately knowledgeable in SQL, Microsoft Power BI and advanced level in Microsoft Excel. Personal development, is one thing that has been constant in my journey, empowering my current abilities and actively learning new ones.
 
 ## Let's Connect!
-•	GitHub  
-•	LinkedIn   
+•	[GitHub](https://github.com/augustinanobidiegwu)  
+•	[LinkedIn](https://www.linkedin.com/in/augustinanobidiegwu)   
